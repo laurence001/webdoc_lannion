@@ -1,0 +1,39 @@
+/**Général**/
+html {color: #322;font-size: 1em;line-height: 1.4;}
+body {background-color: darkslategrey;font-family:'Montserrat',sans-serif}
+::-moz-selection {background: #b3d4fc;text-shadow: none;}
+::selection {background: #b3d4fc;text-shadow: none;}
+hr {display: block;height: 1px;border: 0;border-top: 1px solid #ccc;margin: 1em 0;padding: 0;}
+audio, canvas, iframe, img, svg, video { vertical-align: middle; }
+fieldset {border: 0; margin: 0; padding: 0; }
+textarea {resize: vertical;}
+.container{margin:0 auto;}
+
+/**Accueil**/
+header h1 {color: bisque;text-align:center;text-transform:uppercase;margin:30px 0;font-weight:800;font-size:42px;}
+.navbar{text-align:center;margin-bottom:50px;padding:0;height:36px;}
+.navbar .menu{list-style-type:none;margin:0;padding:0;text-align:center;width:100%;}
+.navbar .menu li{display:inline-block;padding:5px 10px;background:black;}
+.navbar li a{color:#FFFFFF;background:none;text-decoration:none;text-transform:uppercase;font-weight:700;}
+.navbar li:hover{background:orange;}
+
+.persos{text-align:center;}
+.persos h2{color:lightgrey;margin-bottom:50px;font-size:1.1em;font-weight:600;}
+.persos figure{display:inline-block;}
+.persos img{height:300px;width:auto;cursor:pointer;}
+.persos img:hover{opacity:0.7;}
+.opacity{opacity:0.5;}
+.persos .description{width:80%;margin:0 auto 30px auto;background:lightgrey;padding:20px;border-radius:6px;
+text-align:left;display:none;}   
+.persos .description h4,.persos .description p{margin:0;}
+.persos .description h4{margin-bottom:15px;}
+
+/**Helpers**/
+.hidden,[hidden] {display: none !important;}
+.sr-only { border: 0; clip: rect(0, 0, 0, 0); height: 1px; margin: -1px; overflow: hidden; padding: 0; position: absolute; white-space: nowrap; width: 1px; }
+.sr-only.focusable:active, .sr-only.focusable:focus { clip: auto; height: auto; margin: 0; overflow: visible; position: static; white-space: inherit; width: auto; }
+.invisible {visibility: hidden;}
+.clearfix::before,
+.clearfix::after {content: " ";display: table;}
+.clearfix::after {clear: both;}
+/**responsive**/
