@@ -35,6 +35,7 @@ SASHA + tous les persos
 		remettre tous les titres en bas de casse avec les caractères accentués (les maj. sont dans le style)
 		ou rester en bas de casse (plus harmonieux, moins dur)
 		ajouter tous les liens
+		compléter la variable du titre pour les partages
 		
 	compléter le fichier metadata.php pour le fichier index.php
 	
@@ -44,5 +45,7 @@ SASHA + tous les persos
 	
 	Lister les articles de chaque personnages :
 		- nom du fichier qui devra correspondre (= URL)
+		
+	Share.php : définir les RS de partage
 		
 + créer page "A propos"
