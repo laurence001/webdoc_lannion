@@ -1,3 +1,4 @@
+A faire
 ROOT
 
 	metadata.php = copier-coller les métadonnées de la page d'accueil
@@ -22,14 +23,20 @@ ROOT
 	Tests : optimisation / utilisateurs
 	
 	Optimiser images : résolution / persos gif fond transparent
+	
+	Créer le compte Google Analytics
+	
+	Générer le fichier sitemap.xml
 		
-SASHA
+SASHA + tous les persos
 	
 	index.php => valider le modèle de catégorie
 		corriger le texte
 		remettre tous les titres en bas de casse avec les caractères accentués (les maj. sont dans le style)
 		ou rester en bas de casse (plus harmonieux, moins dur)
 		ajouter tous les liens
+		
+	compléter le fichier metadata.php pour le fichier index.php
 	
 	sportsdecombats.php => valider le modèle d'article (à éditer : titre, auteurs, chapô)
 		contient : metadata_sportsdecombats.php = métadonnées + content_sportsdecombats.php (corps du texte)
@@ -38,4 +45,4 @@ SASHA
 	Lister les articles de chaque personnages :
 		- nom du fichier qui devra correspondre (= URL)
 		
-	
++ créer page "A propos"
