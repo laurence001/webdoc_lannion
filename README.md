@@ -4,9 +4,9 @@ Fichiers du pôle développement.
 
 Les fichiers préparés se trouvent dans le zip V3.
 
-Preview : http://lesvisagesdusport.infocomlannion.fr/
+Preview : https://lesvisagesdusport.infocomlannion.fr/
 
-Liste des tâches : http://lesvisagesdusport.infocomlannion.fr/readme.txt
+Liste des tâches : https://lesvisagesdusport.infocomlannion.fr/readme.txt
 
 Pôle conception : tests utilisateurs (PDF UX_tests)
 
