@@ -26,3 +26,7 @@ Manque content_riche + content_quartierspopulaires : pas d'images ou d'enrichiss
 Manque pour tous un bas de page (cf pôle conception)
 
 = 2 articles : quartiers populaire + riche
+
+## ALIX
+
+Index à compléter + 3 articles (avec contenus et métadonnées = 9 fichiers) + metadata.php (métadonnées de la page index)
