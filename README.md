@@ -13,11 +13,11 @@ Optimisation des images :
 
 Pôle développement : voir check-list pour le développement (PDF)
 
+-------------------------------------------------------------------------------------------------------
+
 ## TO-DO-LIST
 
-----------------------------------------------------------------------------------------------
-
-AYLAN
+### AYLAN
 
 Manque metadata index + metadata riche + metadata_quartierspopulaires
 
@@ -26,5 +26,3 @@ Manque content_riche + content_quartierspopulaires : pas d'images ou d'enrichiss
 Manque pour tous un bas de page (cf pôle conception)
 
 = 2 articles : quartiers populaire + riche
-
-----------------------------------------------------------------------------------------------
