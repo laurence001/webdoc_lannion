@@ -1,4 +1,4 @@
-# Webdoc Lannion
+# Webdoc Lannion : merci de ne pas transférer de fichiers s'ils ne sont pas terminés !
 
 Preview : https://lesvisagesdusport.infocomlannion.fr/
 
@@ -30,3 +30,12 @@ Manque pour tous un bas de page (cf pôle conception)
 ## ALIX
 
 Index à compléter + 3 articles (avec contenus et métadonnées = 9 fichiers) + metadata.php (métadonnées de la page index)
+
+##CHARLIE
+
+Métadonées de la page index (metadata.php)
+
+metadata_seniors.php + enrichissements content_seniors.php
+
+metadata_cancer + enrichissements cancer
+
