@@ -1,9 +1,5 @@
 # Webdoc Lannion
 
-Fichiers du pôle développement.
-
-Les fichiers préparés se trouvent dans le zip V3.
-
 Preview : https://lesvisagesdusport.infocomlannion.fr/
 
 Liste des tâches : https://lesvisagesdusport.infocomlannion.fr/readme.txt
@@ -16,3 +12,12 @@ Optimisation des images :
 => pas de PNG (trop lourd dans un souci d'optimisation)
 
 Pôle développement : voir check-list pour le développement (PDF)
+
+# TO-DO-LIST
+----------------------------------------------------------------------------------------------
+AYLAN
+Manque metadata index + metadata riche + metadata_quartierspopulaires
+Manque content_riche + content_quartierspopulaires : pas d'images ou d'enrichissements ?
+Manque pour tous un bas de page (cf pôle conception)
+= 2 articles : quartiers populaire + riche
+----------------------------------------------------------------------------------------------
