@@ -13,7 +13,7 @@ Optimisation des images :
 
 Pôle développement : voir check-list pour le développement (PDF)
 
-##TO-DO-LIST
+## TO-DO-LIST
 
 ----------------------------------------------------------------------------------------------
 
