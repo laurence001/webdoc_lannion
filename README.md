@@ -31,7 +31,7 @@ Manque pour tous un bas de page (cf pôle conception)
 
 Index à compléter + 3 articles (avec contenus et métadonnées = 9 fichiers) + metadata.php (métadonnées de la page index)
 
-##CHARLIE
+## CHARLIE
 
 Métadonées de la page index (metadata.php)
 
