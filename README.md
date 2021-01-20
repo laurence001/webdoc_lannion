@@ -1,5 +1,10 @@
 # Webdoc Lannion : merci de ne pas transférer de fichiers s'ils ne sont pas terminés !
 
+Attention au montage : 
+    - un code propre = un code bien structuré avec des indentations ; fates attention à bien lier les fichiers comme expliqué ce mardi
+    - ne pas terminer un fichier = perdre du temps dans le montage (pas efficace)
+    - bref, soyez rigoureux et organisés, merci !
+
 Preview : https://lesvisagesdusport.infocomlannion.fr/
 
 Liste des tâches : https://lesvisagesdusport.infocomlannion.fr/readme.txt
@@ -38,4 +43,10 @@ Métadonées de la page index (metadata.php)
 metadata_seniors.php + enrichissements content_seniors.php
 
 metadata_cancer + enrichissements cancer
+
+## ELIO
+
+metadata clubs + enrichissements clubs
+
+
 
