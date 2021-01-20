@@ -32,11 +32,11 @@ Manque pour tous un bas de page (cf pôle conception)
 
 = 2 articles : quartiers populaire + riche
 
-## ALIX
+### ALIX
 
 Index à compléter + 3 articles (avec contenus et métadonnées = 9 fichiers) + metadata.php (métadonnées de la page index)
 
-## CHARLIE
+### CHARLIE
 
 Métadonées de la page index (metadata.php)
 
@@ -44,9 +44,13 @@ metadata_seniors.php + enrichissements content_seniors.php
 
 metadata_cancer + enrichissements cancer
 
-## ELIO
+### ELIO
 
 metadata clubs + enrichissements clubs
+
+metadata.php (pour index.php)
+
+### SASHA
 
 
 
