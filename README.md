@@ -3,7 +3,9 @@
 Attention au montage : 
 - un code propre = un code bien structuré avec des indentations ; fates attention à bien lier les fichiers comme expliqué ce mardi
 - ne pas terminer un fichier = perdre du temps dans le montage (pas efficace)
-- en bref : soyez rigoureux et organisés, merci !
+- en bref : soyez rigoureux, attentifs à ce que vous faites (codage, nom de fichiers, lienx...) et organisés
+
+#### Les fichiers corrigés se trouvent dans le zip V4, merci de travailler avec cette version !
 
 Preview : https://lesvisagesdusport.infocomlannion.fr/
 
@@ -52,5 +54,23 @@ metadata.php (pour index.php)
 
 ### SASHA
 
+Idem : metadata.php (index.php) + metadata_puberte.php + enrichissements puberté
 
+### ROOT
+
+metadata.php : ajouter les images en URL absolue (images dans le répertoire img)
+
+reseaux.php : liens Twitter et Instagram à ajouter
+
+404.php
+
+humans.txt
+
+sitemap.xml
+
+favicons.php
+
+content_apropos.php
+
+optimiser les images + voir les adaptations liées au résultats des tests réalisés par le pôle conception
 
