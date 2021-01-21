@@ -1,0 +1,83 @@
+<!doctype html>
+<html class="no-js" lang="FR=fr">
+
+<head>
+  <meta charset="utf-8">
+  <title>Les visages du sport</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <?php require_once('metadata.php'); ?>
+  <?php require_once('../favicons.php'); ?>
+  <script src="https://code.jquery.com/jquery-3.5.1.min.js" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
+  <script>window.jQuery || document.write('<script src="js/vendor/jquery-3.2.1.min.js"><\/script>')</script> 
+  <script src="https://kit.fontawesome.com/5d803a5a54.js" crossorigin="anonymous"></script>
+  <link rel="preconnect" href="https://fonts.gstatic.com">
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700;800;900&family=Pacifico&display=swap" rel="stylesheet"> 
+  <link rel="stylesheet" href="../css/normalize.css">
+  <link rel="stylesheet" href="../css/bootstrap.min.css">
+  <link rel="stylesheet" href="../css/main.css">
+  <link rel="stylesheet" href="../css/new.css">
+</head>
+<body id="cat" class="alix-cat inside cat">
+ 
+	<?php 
+		require_once('../reseaux.php');
+		require_once('navbar.php'); 
+	?>
+    
+    <div class="container main-container">
+		<div class="row"> 
+            
+			<div class="col col-lg-2 col-md-2 col-sm-2 col-6" id="catperso"> 
+              <img src="../img/alix.gif" alt="Alix"> 
+            </div>
+            
+            <div class="col col-lg-4 col-md-4 col-sm-6 col-6">
+               <div class="cadre">    
+					<h4>Alix</h4>	
+					<p> J’ai 40 ans cette année. J’ai toujours été passionnée par le vélo. Il y a quelques années, j’ai eu un accident, un événement très commun chez les cyclistes. Plus tard, j’ai cherché des alternatives à ma pratique sportive en me tournant vers les innovations électriques et les clubs handisports, malheureusement très peu développe·é·s dans ma région.  </p>
+				</div>
+				<div class="resp">
+					<div class="center">
+						<img src="../img/Alix.png" alt="Alix"> 
+					</div>
+				</div>
+            </div>
+        
+            <div class="col col-lg-6 col-md-6 col-sm-12 col-12" id="categories">
+              
+			  <section>
+				<h2><a href="content_handisport.php"> Le handisport, éternel oublié</a></h2> 
+				<div class="chapo">
+					Le handisport peine à se développer dans les Côtes-d’Armor. Les associations déplorent un manque d’infrastructures adaptées et de formation d’encadrant·e·s.
+				</div> 
+			  </section>
+
+			  <section>
+				<h2><a href="content_velo.php">Vélo et auto. Des relations trop dangereuses </a></h2>
+				<div class="chapo">  
+				Durant l’été 2020, 1 566 cyclistes ont été accidenté·e·s. Toutefois, malgré les campagnes de sensibilisation et les aménagements routiers, les accidents de la circulation sont en hausse. Durant le seul mois de septembre, 37 cyclistes ont été tué·e·s, le chiffre le plus élevé depuis dix ans. 
+				</div>
+			   </section>
+
+			   <section>
+				<h2><a href="content_veloelectrique.php"> Le vélo électrique, pas si “bobo” </a></h2> 
+				<div class="chapo">
+Entre écologie et économie, le vélo électrique tente de se démocratiser dans nos villes. Afin de se débarrasser de la réputation “bobo” dont il souffre, de nombreuses démarches se mettent en place pour permettre à toustes de prendre la roue. </div>
+			   </section>
+			  
+            </div>
+            
+        </div>
+	</div>
+	
+		<footer id="footer">
+			<div class="container">
+				J2 - InfoCom Lannion &copy; 2021
+			</div>
+		</footer>
+		
+		<script src="../js/vendor/modernizr-3.11.2.min.js"></script>
+		<script src="../js/bootstrap.min.js"></script>
+		<script src="../js/main.js"></script>
+    </body> 
+</html>
