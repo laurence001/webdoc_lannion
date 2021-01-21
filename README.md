@@ -36,19 +36,16 @@ Index à compléter + 3 articles (avec contenus = 6 fichiers)
 
 ### CHARLIE
 
-metadata_seniors.php + enrichissements content_seniors.php
-
-metadata_cancer + enrichissements cancer
+enrichissements content_seniors.php + content_cancer.php
 
 ### ELIO
 
 metadata clubs + enrichissements clubs
 
-metadata.php (pour index.php)
-
 ### SASHA
 
-Idem : metadata.php (index.php) + metadata_puberte.php + enrichissements puberté
+content_puberte + enrichissements puberté
++ les autres articles
 
 ### ROOT
 
