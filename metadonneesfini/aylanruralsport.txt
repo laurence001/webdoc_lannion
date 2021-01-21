@@ -1,0 +1,27 @@
+<meta name="description" content="Les clubs sportifs des milieux ruraux dans les Côtes d'Armor peinent à être rentables, faute de moyens et d’infrastructures. Sans solutions, certains clubs disparaîssent." />
+<meta name="keywords" content="campagne, ruralité, rural, clubs, clubs amateurs, financement, infastructures, Lannion, sport, sports, journalisme, enquête, Côtes d'Armor, Trégor, Bretagne, amateur, finances, bénévoles, clubs, associations sportives" />		
+<meta property="og:type" content="article" /> 
+<meta property="og:site_name" content="Les visages du sport" />
+<meta property="og:determiner" content="auto" />
+<meta property="og:locale" content="fr-FR" /> 
+<meta property="og:website" content="https://lesvisagesdusport.infocomlannion.fr" /> 
+<meta property="og:profile" content="@lesvisagesdusport" /> 
+<meta property="og:title" content="En milieu rural, les clubs sportifs à la traîne" /> 
+<meta name="og:url" content="https://lesvisagesdusport.infocomlannion.fr/Aylan/rural-sport-cotes-d-armor" />
+<meta property="og:image" content="https://www.lesvisagesdusport.infocomlannion.fr/img/metadata/ruralsport.jpeg" /> 
+<meta property="og:description" content="Les clubs sportifs des milieux ruraux dans les Côtes d'Armor peinent à être rentables, faute de moyens et d’infrastructures. Sans solutions, certains clubs disparaîssent." /> 
+<meta name="twitter:card" value="summary-large-image" /> 
+<meta name="twitter:site" value="@lesvisagesdusport" />
+<meta name="twitter:creator" value="@DelmurMael et @JrdNaomie" />
+<meta property="twitter:title" content="En milieu rural, les clubs sportifs à la traîne" /> 
+<meta name="twitter:url" content="https://lesvisagesdusport.infocomlannion.fr/Aylan/rural-sport-cotes-d-armor" /> 
+<meta property="twitter:image" content="https://www.lesvisagesdusport.infocomlannion.fr/img/metadata/ruralsport.jpeg" /> 
+<meta property="twitter:description" content="Les clubs sportifs des milieux ruraux dans les Côtes d'Armor peinent à être rentables, faute de moyens et d’infrastructures. Sans solutions, certains clubs disparaîssent." /> 
+<meta name="DC.Publisher" content="J2 Infocom Lannion" />
+<meta name="DC.Date" content="2021-01-31">
+<meta name="DC.Language" scheme="UTF-8" content="fr-FR" />
+<meta name="DC.Subject" content="sports" />
+<meta name="DC.Creator" content="Maël Delmur et Naomie Jourand" /> 
+<meta name="DC.Identifier" content="https://lesvisagesdusport.infocomlannion.fr/Aylan/rural-sport-cotes-d-armor/>
+<meta property="DC.Title" content="En milieu rural, les clubs sportifs à la traîne" /> 
+<meta property="DC.Description" content="Les clubs sportifs des milieux ruraux dans les Côtes d'Armor peinent à être rentables, faute de moyens et d’infrastructures. Sans solutions, certains clubs disparaîssent." /> 

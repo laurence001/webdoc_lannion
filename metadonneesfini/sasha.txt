@@ -1,0 +1,27 @@
+<meta name="description" content="Le personnage de Sasha représente les thématiques liées aux femmes dans le sport. Elle a 20 ans et s'est récemment mise à la boxe." />
+<meta name="keywords" content="femmes, féminisme, femme, Lannion, violences sexuelles, adolescence, boxe, sports de combat, Trégor, journalisme, sport, sports, enquête, mixité, sexisme" />		
+<meta property="og:type" content="webdocumentaire" /> 
+<meta property="og:site_name" content="Les visages du sport" />
+<meta property="og:determiner" content="auto" />
+<meta property="og:locale" content="fr-FR" /> 
+<meta property="og:website" content="https://lesvisagesdusport.infocomlannion.fr" /> 
+<meta property="og:profile" content="@lesvisagesdusport" /> 
+<meta property="og:title" content="Sasha, visage du féminisme" /> 
+<meta name="og:url" content="https://lesvisagesdusport.infocomlannion.fr/Sasha" />
+<meta property="og:image" content="https://www.lesvisagesdusport.infocomlannion.fr/img/metadata/logo.png" /> 
+<meta property="og:description" content="Le personnage de Sasha représente les thématiques liées aux femmes dans le sport. Elle a 20 ans et s'est récemment mise à la boxe." /> 
+<meta name="twitter:card" value="summary-large-image" /> 
+<meta name="twitter:site" value="@lesvisagesdusport" />
+<meta name="twitter:creator" value="@lesvisagesdusport" />
+<meta property="twitter:title" content="Sasha, visage du féminisme" /> 
+<meta name="twitter:url" content="https://lesvisagesdusport.infocomlannion.fr/Sasha" /> 
+<meta property="twitter:image" content="https://www.lesvisagesdusport.infocomlannion.fr/img/metadata/logo.png" /> 
+<meta property="twitter:description" content="Le personnage de Sasha représente les thématiques liées aux femmes dans le sport. Elle a 20 ans et s'est récemment mise à la boxe." /> 
+<meta name="DC.Publisher" content="J2 Infocom Lannion" />
+<meta name="DC.Date" content="2021-01-31">
+<meta name="DC.Language" scheme="UTF-8" content="fr-FR" />
+<meta name="DC.Subject" content="sports" />
+<meta name="DC.Creator" content="Les visages du sport" /> 
+<meta name="DC.Identifier" content="https://lesvisagesdusport.infocomlannion.fr/Sasha" />
+<meta property="DC.Title" content="Sasha, visage du féminisme" /> 
+<meta property="DC.Description" content="Le personnage de Sasha représente les thématiques liées aux femmes dans le sport. Elle a 20 ans et s'est récemment mise à la boxe." /> 

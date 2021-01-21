@@ -1,0 +1,27 @@
+<meta name="description" content="Arrivées à l'âge de la puberté, de nombreuses adolescentes décident d'arrêter leur pratique sportive. Un phénomène qui ne se retrouve pas chez les garçons." />
+<meta name="keywords" content="adolescentes, adolescence, puberté, corps, féminisation, féminisme, femmes, femme, sport, sports, inactivité, enquête, Lannion, enfance, filles, fille" />		
+<meta property="og:type" content="article" /> 
+<meta property="og:site_name" content="Les visages du sport" />
+<meta property="og:determiner" content="auto" />
+<meta property="og:locale" content="fr-FR" /> 
+<meta property="og:website" content="https://lesvisagesdusport.infocomlannion.fr" /> 
+<meta property="og:profile" content="@lesvisagesdusport" /> 
+<meta property="og:title" content="La puberté : un coup d'arrêt dans la pratique sportive des adolescentes" /> 
+<meta name="og:url" content="https://lesvisagesdusport.infocomlannion.fr/Sasha/puberte-sport-adolescentes" />
+<meta property="og:image" content="https://www.lesvisagesdusport.infocomlannion.fr/img/metadata/pubertesport.jpeg" /> 
+<meta property="og:description" content="Arrivées à l'âge de la puberté, de nombreuses adolescentes décident d'arrêter leur pratique sportive. Un phénomène qui ne se retrouve pas chez les garçons." /> 
+<meta name="twitter:card" value="summary-large-image" /> 
+<meta name="twitter:site" value="@lesvisagesdusport" />
+<meta name="twitter:creator" value="@Klervie_vpr et @VauquelinV" />
+<meta property="twitter:title" content="La puberté : un coup d'arrêt dans la pratique sportive des adolescentes" /> 
+<meta name="twitter:url" content="https://lesvisagesdusport.infocomlannion.fr/Sasha/puberte-sport-adolescentes" /> 
+<meta property="twitter:image" content="https://www.lesvisagesdusport.infocomlannion.fr/img/metadata/pubertesport.jpeg" /> 
+<meta property="twitter:description" content="Arrivées à l'âge de la puberté, de nombreuses adolescentes décident d'arrêter leur pratique sportive. Un phénomène qui ne se retrouve pas chez les garçons." /> 
+<meta name="DC.Publisher" content="J2 Infocom Lannion" />
+<meta name="DC.Date" content="2021-01-31">
+<meta name="DC.Language" scheme="UTF-8" content="fr-FR" />
+<meta name="DC.Subject" content="sports" />
+<meta name="DC.Creator" content="Klervie Vappereau et Victorine Vauquelin" /> 
+<meta name="DC.Identifier" content="https://lesvisagesdusport.infocomlannion.fr/Sasha/puberte-sport-adolescentes" />
+<meta property="DC.Title" content="La puberté : un coup d'arrêt dans la pratique sportive des adolescentes" /> 
+<meta property="DC.Description" content="Arrivées à l'âge de la puberté, de nombreuses adolescentes décident d'arrêter leur pratique sportive. Un phénomène qui ne se retrouve pas chez les garçons." /> 

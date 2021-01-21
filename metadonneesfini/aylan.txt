@@ -1,0 +1,27 @@
+<meta name="description" content="Le personnage d'Aylan représente les problèmes de financement, de manque d'infrastuctures et de bénévoles dans les clubs amateurs. Il a 62 ans et est élu communal." />
+<meta name="keywords" content="fédérations, licenciés, Covid, Covid-19, coronavirus, e-sport, esport, Lannion, sport, sports, journalisme, enquête, Côtes d'Armor, Trégor, amateur, finances, bénévoles, ruralité, campagne" />	
+<meta property="og:type" content="webdocumentaire" /> 
+<meta property="og:site_name" content="Les visages du sport" />
+<meta property="og:determiner" content="auto" />
+<meta property="og:locale" content="fr-FR" /> 
+<meta property="og:website" content="https://lesvisagesdusport.infocomlannion.fr" /> 
+<meta property="og:profile" content="@lesvisagesdusport" /> 
+<meta property="og:title" content="Aylan, visage de la précarité du sport amateur" /> 
+<meta name="og:url" content="https://lesvisagesdusport.infocomlannion.fr/Aylan" />
+<meta property="og:image" content="https://www.lesvisagesdusport.infocomlannion.fr/img/metadata/logo.png" /> 
+<meta property="og:description" content="Le personnage d'Aylan représente les problèmes de financement, de manque d'infrastuctures et de bénévoles dans les clubs amateurs. Il a 62 ans et est élu communal." /> 
+<meta name="twitter:card" value="summary-large-image" /> 
+<meta name="twitter:site" value="@lesvisagesdusport" />
+<meta name="twitter:creator" value="@lesvisagesdusport" />
+<meta property="twitter:title" content="Aylan, visage de la précarité du sport amateur" /> 
+<meta name="twitter:url" content="https://lesvisagesdusport.infocomlannion.fr/Aylan" /> 
+<meta property="twitter:image" content="https://www.lesvisagesdusport.infocomlannion.fr/img/metadata/logo.png" /> 
+<meta property="twitter:description" content="Le personnage d'Aylan représente les problèmes de financement, de manque d'infrastuctures et de bénévoles dans les clubs amateurs. Il a 62 ans et est élu communal." /> 
+<meta name="DC.Publisher" content="J2 Infocom Lannion" />
+<meta name="DC.Date" content="2021-01-31">
+<meta name="DC.Language" scheme="UTF-8" content="fr-FR" />
+<meta name="DC.Subject" content="sports" />
+<meta name="DC.Creator" content="Les visages du sport" /> 
+<meta name="DC.Identifier" content="https://lesvisagesdusport.infocomlannion.fr/Aylan" />
+<meta property="DC.Title" content="Aylan, visage de la précarité du sport amateur" /> 
+<meta property="DC.Description" content="Le personnage d'Aylan représente les problèmes de financement, de manque d'infrastuctures et de bénévoles dans les clubs amateurs. Il a 62 ans et est élu communal." /> 

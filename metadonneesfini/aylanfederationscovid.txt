@@ -1,0 +1,27 @@
+<meta name="description" content="Les fédérations sportives françaises ont constaté une perte de licenciés conséquente depuis la pandémie de Covid-19. Cette tendance a de fortes conséquence sur les clubs amateurs." />
+<meta name="keywords" content="fédérations, licenciés, licences, Covid, Covid-19, coronavirus, Lannion, sport, sports, journalisme, enquête, Côtes d'Armor, Trégor, amateur, finances, bénévoles, clubs, associations sportives, pandémie, confinement" />		
+<meta property="og:type" content="article" /> 
+<meta property="og:site_name" content="Les visages du sport" />
+<meta property="og:determiner" content="auto" />
+<meta property="og:locale" content="fr-FR" /> 
+<meta property="og:website" content="https://lesvisagesdusport.infocomlannion.fr" /> 
+<meta property="og:profile" content="@lesvisagesdusport" /> 
+<meta property="og:title" content="Les clubs et la Covid-19, une relation qui s’essoufle" /> 
+<meta name="og:url" content="https://lesvisagesdusport.infocomlannion.fr/Aylan/clubs-licenciés-covid" />
+<meta property="og:image" content="https://www.lesvisagesdusport.infocomlannion.fr/img/metadata/licencescovid.jpeg" /> 
+<meta property="og:description" content="Les fédérations sportives françaises ont constaté une perte de licenciés conséquente depuis la pandémie de Covid-19. Cette tendance a de fortes conséquence sur les clubs amateurs." /> 
+<meta name="twitter:card" value="summary-large-image" /> 
+<meta name="twitter:site" value="@lesvisagesdusport" />
+<meta name="twitter:creator" value="@mvel_bd et @LouisFloc" />
+<meta property="twitter:title" content="Les clubs et la Covid-19, une relation qui s’essoufle" /> 
+<meta name="twitter:url" content="https://lesvisagesdusport.infocomlannion.fr/Aylan/clubs-licenciés-covid" /> 
+<meta property="twitter:image" content="https://www.lesvisagesdusport.infocomlannion.fr/img/metadata/licencescovid.jpeg" /> 
+<meta property="twitter:description" content="Les fédérations sportives françaises ont constaté une perte de licenciés conséquente depuis la pandémie de Covid-19. Cette tendance a de fortes conséquence sur les clubs amateurs." /> 
+<meta name="DC.Publisher" content="J2 Infocom Lannion" />
+<meta name="DC.Date" content="2021-01-31">
+<meta name="DC.Language" scheme="UTF-8" content="fr-FR" />
+<meta name="DC.Subject" content="sports" />
+<meta name="DC.Creator" content="Maël Baudé et Louis Floc'h" /> 
+<meta name="DC.Identifier" content="https://lesvisagesdusport.infocomlannion.fr/Aylan/clubs-licenciés-covid" />
+<meta property="DC.Title" content="Les clubs et la Covid-19, une relation qui s’essoufle" /> 
+<meta property="DC.Description" content="Les fédérations sportives françaises ont constaté une perte de licenciés conséquente depuis la pandémie de Covid-19. Cette tendance a de fortes conséquence sur les clubs amateurs." /> 

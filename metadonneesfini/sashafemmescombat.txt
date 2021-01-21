@@ -1,0 +1,27 @@
+<meta name="description" content="Les femmes se font de plus en plus agresser. Alors, certaines d'entre elles se tournent vers les sports de combat pour se défendre." />
+<meta name="keywords" content="sports de combat, sport de combat, boxe, karaté, judo, féminisme, féminisation, sport, sports, self-défense, agressions, femmes, femme, défense, Lannion, enquête" />		
+<meta property="og:type" content="article" /> 
+<meta property="og:site_name" content="Les visages du sport" />
+<meta property="og:determiner" content="auto" />
+<meta property="og:locale" content="fr-FR" /> 
+<meta property="og:website" content="https://lesvisagesdusport.infocomlannion.fr" /> 
+<meta property="og:profile" content="@lesvisagesdusport" /> 
+<meta property="og:title" content="Les femmes de plus en plus adeptes de sports de combat" /> 
+<meta name="og:url" content="https://lesvisagesdusport.infocomlannion.fr/Sasha/femmes-sports-combat" />
+<meta property="og:image" content="https://www.lesvisagesdusport.infocomlannion.fr/img/metadata/sportcombat.jpeg" /> 
+<meta property="og:description" content="Les femmes se font de plus en plus agresser. Alors, certaines d'entre elles se tournent vers les sports de combat pour se défendre." /> 
+<meta name="twitter:card" value="summary-large-image" /> 
+<meta name="twitter:site" value="@lesvisagesdusport" />
+<meta name="twitter:creator" value="@marionmrglt et @NMaelenn" />
+<meta property="twitter:title" content="Les femmes de plus en plus adeptes de sports de combat" /> 
+<meta name="twitter:url" content="https://lesvisagesdusport.infocomlannion.fr/Sasha/femmes-sports-combat" /> 
+<meta property="twitter:image" content="https://www.lesvisagesdusport.infocomlannion.fr/img/metadata/sportcombat.jpeg" /> 
+<meta property="twitter:description" content="Les femmes se font de plus en plus agresser. Alors, certaines d'entre elles se tournent vers les sports de combat pour se défendre." /> 
+<meta name="DC.Publisher" content="J2 Infocom Lannion" />
+<meta name="DC.Date" content="2021-01-31">
+<meta name="DC.Language" scheme="UTF-8" content="fr-FR" />
+<meta name="DC.Subject" content="sports" />
+<meta name="DC.Creator" content="Marion Mergault et Maëlenn Nicolas" /> 
+<meta name="DC.Identifier" content="https://lesvisagesdusport.infocomlannion.fr/Sasha/femmes-sports-combat" />
+<meta property="DC.Title" content="Les femmes de plus en plus adeptes de sports de combat" /> 
+<meta property="DC.Description" content="Les femmes se font de plus en plus agresser. Alors, certaines d'entre elles se tournent vers les sports de combat pour se défendre." /> 
