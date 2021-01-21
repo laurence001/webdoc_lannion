@@ -5,7 +5,7 @@ Attention au montage :
 - ne pas terminer un fichier = perdre du temps dans le montage (pas efficace)
 - en bref : soyez rigoureux, attentifs à ce que vous faites (codage, nom de fichiers, liens...) et organisés
 
-#### Les fichiers corrigés se trouvent dans le zip V5 (à venir)
+#### Les fichiers corrigés se trouvent dans le zip V5
 
 Preview : https://lesvisagesdusport.infocomlannion.fr/
 
@@ -40,11 +40,11 @@ enrichissements content_seniors.php + content_cancer.php
 
 ### ELIO
 
-metadata clubs + enrichissements clubs
+enrichissements clubs + autres articles
 
 ### SASHA
 
-content_puberte + enrichissements puberté
+content_puberte + enrichissements puberté - le fichier puberte.php n'était pas bon !
 + les autres articles
 
 ### ROOT
