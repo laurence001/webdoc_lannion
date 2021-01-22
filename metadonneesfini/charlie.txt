@@ -8,14 +8,14 @@
 <meta property="og:profile" content="@lesvisagesdusport" /> 
 <meta property="og:title" content="Charlie, visage du sport-santé" /> 
 <meta name="og:url" content="https://lesvisagesdusport.infocomlannion.fr/Charlie" />
-<meta property="og:image" content="https://www.lesvisagesdusport.infocomlannion.fr/img/metadata/logo.png" /> 
+<meta property="og:image" content="https://www.lesvisagesdusport.infocomlannion.fr/img/metadata/charlie.png" /> 
 <meta property="og:description" content="Le personnage de Charlie représente les thématiques liées au sport-santé. Il a 70 ans et se sert du sport pour garder la forme. Cela lui a aussi permis de mieux vivre son cancer." /> 
 <meta name="twitter:card" value="summary-large-image" /> 
 <meta name="twitter:site" value="@lesvisagesdusport" />
 <meta name="twitter:creator" value="@lesvisagesdusport" />
 <meta property="twitter:title" content="Charlie, visage du sport-santé" /> 
 <meta name="twitter:url" content="https://lesvisagesdusport.infocomlannion.fr/Charlie" /> 
-<meta property="twitter:image" content="https://www.lesvisagesdusport.infocomlannion.fr/img/metadata/logo.png" /> 
+<meta property="twitter:image" content="https://www.lesvisagesdusport.infocomlannion.fr/img/metadata/charlie.png" /> 
 <meta property="twitter:description" content="Le personnage de Charlie représente les thématiques liées au sport-santé. Il a 70 ans et se sert du sport pour garder la forme. Cela lui a aussi permis de mieux vivre son cancer." /> 
 <meta name="DC.Publisher" content="J2 Infocom Lannion" />
 <meta name="DC.Date" content="2021-01-31">
