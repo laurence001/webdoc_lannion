@@ -8,14 +8,14 @@
 <meta property="og:profile" content="@lesvisagesdusport" /> 
 <meta property="og:title" content="Elio, visage de la lutte des classes" /> 
 <meta name="og:url" content="https://lesvisagesdusport.infocomlannion.fr/Elio" />
-<meta property="og:image" content="https://www.lesvisagesdusport.infocomlannion.fr/img/metadata/logo.png" /> 
+<meta property="og:image" content="https://www.lesvisagesdusport.infocomlannion.fr/img/metadata/elio.png" /> 
 <meta property="og:description" content="Le personnage d'Elio représente les thématiques liées aux inégalités d'accès au sport. Depuis 31 ans, elle vit dans un quartier populaire et les observe au quotidien." /> 
 <meta name="twitter:card" value="summary-large-image" /> 
 <meta name="twitter:site" value="@lesvisagesdusport" />
 <meta name="twitter:creator" value="@lesvisagesdusport" />
 <meta property="twitter:title" content="Elio, visage de la lutte des classes" /> 
 <meta name="twitter:url" content="https://lesvisagesdusport.infocomlannion.fr/Elio" /> 
-<meta property="twitter:image" content="https://www.lesvisagesdusport.infocomlannion.fr/img/metadata/logo.png" /> 
+<meta property="twitter:image" content="https://www.lesvisagesdusport.infocomlannion.fr/img/metadata/elio.png" /> 
 <meta property="twitter:description" content="Le personnage d'Elio représente les thématiques liées aux inégalités d'accès au sport. Depuis 31 ans, elle vit dans un quartier populaire et les observe au quotidien." /> 
 <meta name="DC.Publisher" content="J2 Infocom Lannion" />
 <meta name="DC.Date" content="2021-01-31">
