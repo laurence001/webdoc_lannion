@@ -8,14 +8,14 @@
 <meta property="og:profile" content="@lesvisagesdusport" /> 
 <meta property="og:title" content="Violences sexuelles. À Lannion, la parole des sportifs se libère" /> 
 <meta name="og:url" content="https://lesvisagesdusport.infocomlannion.fr/Sasha/violences-sexuelles-lannion" />
-<meta property="og:image" content="https://www.lesvisagesdusport.infocomlannion.fr/img/metadata/logo.png" /> 
+<meta property="og:image" content="https://www.lesvisagesdusport.infocomlannion.fr/img/metadata/violencessexuelles.jpg" /> 
 <meta property="og:description" content="Plusieurs cas de violences sexuelles dans des clubs sportifs lannionais ont été recensés ces dernières années. C'est un sujet tabou dans les associations." /> 
 <meta name="twitter:card" value="summary-large-image" /> 
 <meta name="twitter:site" value="@lesvisagesdusport" />
 <meta name="twitter:creator" value="@jadedudu et @QMPihour" />
 <meta property="twitter:title" content="Violences sexuelles. À Lannion, la parole des sportifs se libère" /> 
 <meta name="twitter:url" content="https://lesvisagesdusport.infocomlannion.fr/Sasha/violences-sexuelles-lannion" /> 
-<meta property="twitter:image" content="https://www.lesvisagesdusport.infocomlannion.fr/img/metadata/logo.png" /> 
+<meta property="twitter:image" content="https://www.lesvisagesdusport.infocomlannion.fr/img/metadata/violencessexuelles.jpg" /> 
 <meta property="twitter:description" content="Plusieurs cas de violences sexuelles dans des clubs sportifs lannionais ont été recensés ces dernières années. C'est un sujet tabou dans les associations." /> 
 <meta name="DC.Publisher" content="J2 Infocom Lannion" />
 <meta name="DC.Date" content="2021-01-31">
