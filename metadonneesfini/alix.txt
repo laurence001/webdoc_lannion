@@ -8,14 +8,14 @@
 <meta property="og:profile" content="@lesvisagesdusport" /> 
 <meta property="og:title" content="Alix, visage d'une accidentée" /> 
 <meta name="og:url" content="https://lesvisagesdusport.infocomlannion.fr/Alix" />
-<meta property="og:image" content="https://www.lesvisagesdusport.infocomlannion.fr/img/metadata/logo.png" /> 
+<meta property="og:image" content="https://www.lesvisagesdusport.infocomlannion.fr/img/metadata/alix.png" /> 
 <meta property="og:description" content="Le personnage d'Alix représente les thématiques liées au cyclisme et à ses risques, ainsi qu'au handicap. Elle a 40 ans et s'est tournée vers le handisport après un accident de vélo." /> 
 <meta name="twitter:card" value="summary-large-image" /> 
 <meta name="twitter:site" value="@lesvisagesdusport" />
 <meta name="twitter:creator" value="@lesvisagesdusport" />
 <meta property="twitter:title" content="Alix, visage d'une accidentée" /> 
 <meta name="twitter:url" content="https://lesvisagesdusport.infocomlannion.fr/Alix" /> 
-<meta property="twitter:image" content="https://www.lesvisagesdusport.infocomlannion.fr/img/metadata/logo.png" /> 
+<meta property="twitter:image" content="https://www.lesvisagesdusport.infocomlannion.fr/img/metadata/alix.png" /> 
 <meta property="twitter:description" content="Le personnage d'Alix représente les thématiques liées au cyclisme et à ses risques, ainsi qu'au handicap. Elle a 40 ans et s'est tournée vers le handisport après un accident de vélo." /> 
 <meta name="DC.Publisher" content="J2 Infocom Lannion" />
 <meta name="DC.Date" content="2021-01-31">
