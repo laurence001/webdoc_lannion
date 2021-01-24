@@ -1,0 +1,83 @@
+/**Styles pôle développement**/
+
+/**Commun**/
+article {
+    margin-bottom: 40px;
+    text-align: justify;
+}
+.cadre p {
+    margin-bottom: 0;
+    text-align: center;
+}
+.chapo {
+    font-size: 0.95em;
+    font-weight: 400;
+    text-align: justify;
+}
+
+#categories section h2 {
+    font-size: 1.3em;
+    font-weight: 700;
+    text-transform: uppercase;
+    text-align: center;
+}
+#chapo {
+    margin-bottom: 30px;
+    font-size: 1.4em;
+    font-weight: 600;
+    text-align: justify;
+}
+/**Page thème**/
+/**Sasha**/
+
+.sasha-cat .cadre h4 {
+	color: #D50032!important;
+}
+
+/**Charlie**/
+.charlie-cat .cadre, #art.alix-cat .main-container .col-12 {
+    border: 4px solid #FF9800;
+    margin-left: 25px;
+}
+/**Alix**/
+.alix-cat .cadre h4 {
+	color: #009739!important;
+}
+.alix-cat .cadre, #art.alix-cat .main-container .col-12 {
+    border: 4px solid #009739;
+    margin-left: 40px;
+}
+
+/**Elio**/
+.elio-cat .cadre h4 {
+	color: #7DA1C4!important;
+}
+
+.elio-cat .cadre, #art.alix-cat .main-container .col-12 {
+    border: 4px solid #7DA1C4;
+    margin-left: 25px;
+}
+/**Aylan**/
+.aylan-cat .cadre h4 {
+	color: #A20067!important;
+}
+
+.aylan-cat .cadre, #art.alix-cat .main-container .col-12 {
+    border: 4px solid #A20067;
+    margin-left: 25px;
+}
+
+
+/**Articles**/
+/**Sasha**/
+#art.sasha-cat .main-container .col-12 {
+    border: 2px solid #D50032;
+}
+
+#art .main-container .col-12 {
+    padding: 36px;
+    background: #FFFFFF;
+    max-width: 900px;
+    margin: 100px auto 0 auto;
+    float: none;
+}
