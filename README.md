@@ -1,6 +1,10 @@
 # Webdoc Lannion
 
-Attention aux images : format jpg et pas jpeg ! ####Merci de charger les images dans le répertoire img
+Attention aux images : format jpg et pas jpeg ! 
+
+#### Merci de charger les images dans le répertoire img
+
+### Prévenez-moi quand vous souhaitez le zip de la V6
 
 Optimisation des images : 
 - avec fond transparent = gif (plus léger), toutes les images à la même taille (il peut y avoir du bord perdu pour y arriver), important pour les personnages
