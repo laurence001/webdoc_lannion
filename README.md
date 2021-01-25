@@ -28,11 +28,10 @@ Manque content_riche + content_quartierspopulaires : pas d'images ou d'enrichiss
 
 Manque pour tous un bas de page (cf pôle conception)
 
-= 2 articles : quartiers populaire + riche
 
 ### ALIX
 
-Index à compléter + 3 articles (avec contenus = 6 fichiers)
+Index à compléter + handisport + vélo électrique
 
 ### CHARLIE
 
@@ -40,12 +39,12 @@ enrichissements content_seniors.php + content_cancer.php
 
 ### ELIO
 
-enrichissements clubs + autres articles
+enrichissements clubs-covid + index.php + clubs ruraux
 
 ### SASHA
 
-content_puberte + enrichissements puberté - le fichier puberte.php n'était pas bon !
-+ les autres articles
+sports de combats, violences sexuelles, féministation (3 x 2 fichiers)
+index.php (chapôs)
 
 ### ROOT
 
