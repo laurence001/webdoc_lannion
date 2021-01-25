@@ -38,7 +38,7 @@ Manque pour tous un bas de page (cf pôle conception)
 
 ### SASHA
 
-violences sexuelles, féministation (3 x 2 fichiers)
+violences sexuelles, féminisation (3 x 2 fichiers)
 index.php (chapôs)
 
 ### ROOT
