@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <title>Les visages du sport</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <?php require_once('metadata_violencessexuelles.php'); ?> //A changer
+  <?php require_once('metadata_violences.php'); ?> //A changer
   <?php require_once('../favicons.php'); ?>
   <script src="https://code.jquery.com/jquery-3.5.1.min.js" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
   <script>window.jQuery || document.write('<script src="js/vendor/jquery-3.2.1.min.js"><\/script>')</script> 
