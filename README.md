@@ -30,10 +30,9 @@ Manque content_riche + content_quartierspopulaires : pas d'images ou d'enrichiss
 
 Manque pour tous un bas de page (cf pôle conception)
 
-
 ### SASHA
 
-sports de combats, violences sexuelles, féministation (3 x 2 fichiers)
+violences sexuelles, féministation (3 x 2 fichiers)
 index.php (chapôs)
 
 ### ROOT
