@@ -1,6 +1,6 @@
 # Webdoc Lannion
 
-Attention aux images : format jpg et pas jpeg ! Merci de charger les images dans le répertoire img
+Attention aux images : format jpg et pas jpeg ! ####Merci de charger les images dans le répertoire img
 
 Optimisation des images : 
 - avec fond transparent = gif (plus léger), toutes les images à la même taille (il peut y avoir du bord perdu pour y arriver), important pour les personnages
@@ -8,6 +8,8 @@ Optimisation des images :
 => pas de PNG (trop lourd dans un souci d'optimisation)
 
 Pôle développement : voir check-list pour le développement (PDF), tout est bien ok ?
+
+Ne pas oublier de vérifier : code HTML validé (W3C), partage des liens avec dev card de Twitter
 
 -------------------------------------------------------------------------------------------------------
 
