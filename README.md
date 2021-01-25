@@ -19,7 +19,7 @@ Homepage version mobile, sous-les articles (parcours utilisateurs vers autres ar
 
 Tous les fichiers ont été réalisés, check de Laurence pour les liens vers les images.
 
-### ALIX
+### ALIX / ELIO
 
 Tous les fichiers ont été réalisés, check de Laurence pour les liens vers les images.
 MAIS compléter le fichier index.php
@@ -30,13 +30,6 @@ Manque content_riche + content_quartierspopulaires : pas d'images ou d'enrichiss
 
 Manque pour tous un bas de page (cf pôle conception)
 
-
-
-
-
-### ELIO
-
-enrichissements clubs-covid + index.php + clubs ruraux
 
 ### SASHA
 
