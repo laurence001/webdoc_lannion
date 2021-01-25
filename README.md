@@ -1,26 +1,24 @@
-# Webdoc Lannion : fichiers corrigés et complets à envoyer dans le répertoire "corrections", merci !
+# Webdoc Lannion
 
-Attention au montage : 
-- un code propre = un code bien structuré avec des indentations ; fates attention à bien lier les fichiers comme expliqué ce mardi
-- ne pas terminer un fichier = perdre du temps dans le montage (pas efficace)
-- en bref : soyez rigoureux, attentifs à ce que vous faites (codage, nom de fichiers, liens...) et organisés
-
-#### Les fichiers corrigés se trouvent dans le zip V5
-
-Preview : https://lesvisagesdusport.infocomlannion.fr/
-
-Pôle conception : tests utilisateurs (PDF UX_tests)
+Attention aux images : format jpg et pas jpeg ! Merci de charger les images dans le répertoire img
 
 Optimisation des images : 
 - avec fond transparent = gif (plus léger), toutes les images à la même taille (il peut y avoir du bord perdu pour y arriver), important pour les personnages
 - jpg : RVB, 72DPI, compression 75%
 => pas de PNG (trop lourd dans un souci d'optimisation)
 
-Pôle développement : voir check-list pour le développement (PDF)
+Pôle développement : voir check-list pour le développement (PDF), tout est bien ok ?
 
 -------------------------------------------------------------------------------------------------------
 
 ## TO-DO-LIST
+
+Homepage version mobile, sous-les articles (parcours utilisateurs vers autres articles), sous les persos (pages index, quid bloc personnages ?), partage RS des utilisateurs (juste Twitter et FB ?)
+
+### CHARLIE
+
+Tous les fichiers ont été réalisés, check de Laurence pour les liens vers les images.
+
 
 ### AYLAN
 
@@ -33,9 +31,6 @@ Manque pour tous un bas de page (cf pôle conception)
 
 Index à compléter + handisport + vélo électrique
 
-### CHARLIE
-
-enrichissements content_seniors.php + content_cancer.php
 
 ### ELIO
 
@@ -52,13 +47,9 @@ reseaux.php : liens Twitter et Instagram à ajouter
 
 404.php
 
-humans.txt
-
 sitemap.xml
 
 favicons.php
 
 content_apropos.php
-
-optimiser les images + voir les adaptations liées au résultats des tests réalisés par le pôle conception
 
