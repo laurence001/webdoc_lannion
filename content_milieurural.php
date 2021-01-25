@@ -33,7 +33,12 @@
 <h3 class="inter">“Le sport n’est pas une priorité” </h3>
 
 <p>
-	Près d’un tiers des communes des Côtes d’Armor sont classées en ZRR (Zone de revitalisation rurale). <em>« Malheureusement, les maires des ZRR s’occupent plus de la ruralité que de leurs communes. Le sport n’est pas leur priorité »</em>, regrette Serge Falezan. <em>« La plupart des communes préfèrent mutualiser avec les communes voisines car construire une salle de sport coûte trop cher pour une commune seule »</em>. Cette mutualisation des salles de sports influe donc aussi sur le nombre de clubs  : la plupart des communes ne possèdent pas assez d’associations sportives pour subvenir aux besoins de sa population.
+	Près d’un tiers des communes des Côtes d’Armor sont classées en ZRR (Zone de revitalisation rurale). 
+<p/>
+
+<iframe width="100%" height="520" frameborder="0" src="https://mariaaze.carto.com/builder/5407bb99-2574-482a-9efc-1fec54d4ab22/embed" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+
+<p>     <em>« Malheureusement, les maires des ZRR s’occupent plus de la ruralité que de leurs communes. Le sport n’est pas leur priorité »</em>, regrette Serge Falezan. <em>« La plupart des communes préfèrent mutualiser avec les communes voisines car construire une salle de sport coûte trop cher pour une commune seule »</em>. Cette mutualisation des salles de sports influe donc aussi sur le nombre de clubs  : la plupart des communes ne possèdent pas assez d’associations sportives pour subvenir aux besoins de sa population.
 </p>
 
 <p>
