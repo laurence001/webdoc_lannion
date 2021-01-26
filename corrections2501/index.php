@@ -17,7 +17,7 @@
   <link rel="stylesheet" href="../css/main.css">
   <link rel="stylesheet" href="../css/new.css">
 </head>
-<body id="cat" class="elio-cat inside cat">
+<body id="cat" class="sasha-cat inside cat">
  
 	<?php 
 		require_once('../reseaux.php');
@@ -28,18 +28,20 @@
 		<div class="row"> 
             
 			<div class="col col-lg-2 col-md-2 col-sm-2 col-6" id="catperso"> 
-              <img src="../img/Elio.png" alt="elio"> 
+              <img src="../img/Sasha.png" alt="Sasha"> 
             </div>
             
             <div class="col col-lg-4 col-md-4 col-sm-6 col-6">
                <div class="cadre">    
-					<h4>Elio</h4>
-					<p> Cela fait 31 ans que j’habite dans un quartier populaire, j’y ai grandi. Sportif·ve depuis mon plus jeune âge, je me rends désormais compte du sous-développement de la pratique sportive dans les quartiers. Une fracture économique avec le reste du pays, d’autant plus que certains sports “de riches” sont inaccessibles pour des gens comme moi. 
- </p>					
+					
+					<h4>Sasha</h4>	
+					
+					<p> J’ai 20 ans. Contrairement à beaucoup de mes amies, je n’ai pas arrêté le sport à mon adolescence. J’ai été agressée, mais mon club n’a rien fait. Je n’ai pas voulu tout arrêter, alors j’ai cherché un nouveau sport. J’ai rejoint un club de boxe féminine, en partie pour (re)gagner confiance en moi.  </p>
+					
 				</div>
 				<div class="resp">
 					<div class="center">
-						<img src="../img/elio.png" alt="elio"> 
+						<img src="../img/Sasha.png" alt="Sasha"> 
 					</div>
 				</div>
             </div>
@@ -47,26 +49,39 @@
             <div class="col col-lg-6 col-md-6 col-sm-12 col-12" id="categories">
               
 			  <section>
-				<h2><a href="quartierspopulaires.php">Les quartiers populaires, si loin du sport</a></h2> 
+				<h2><a href="sportsdecombat.php"> Les femmes de plus en plus adeptes de sports de combat </a></h2> 
 				<div class="chapo">
-					Dans les quartiers populaires, la pratique du sport est bien moins développée que dans le reste de la France. Manque d’équipements, licences trop chères, problèmes de transports… Enquête dans les deux quartiers prioritaires de Lannion, en Bretagne.
-
-				</div> 
+					En France, 86% des femmes affirment avoir été victimes d’agression. Pour apprendre à se défendre et gagner en confiance en soi, elles sont de plus en plus nombreuses à se tourner vers les sports de combat au cours de ces vingt dernières années. Boxe, karaté, judo ou encore self défense, cette augmentation des licenciées se démarque de celle des autres sports. </div> 
 			  </section>
 
 			  <section>
-				<h2><a href="SportdeRiche.php">Equitation, Golf, Aviation… Quand la compétition est réservée aux plus riches</a></h2>
+				<h2><a href="violencessexuelles.php">Violences sexuelles. À Lannion, la Parole des sportifs se libère</a></h2>
 				<div class="chapo">  
-				Équitation, golf, voile ou encore ski, tous sont considérés comme réservés aux personnes aisées. Certains tentent de se défaire de cette réputation. Le résultat de ces initiatives est mitigé : au-delà du coût, la culture élitiste de certains sports est un facteur d’exclusion.
+				À Lannion, dans les Côtes d’Armor,  les médailles et les sourires des jeunes sportif.ve.s  brillent dans la presse locale. Pourtant, plusieurs cas d’agressions et de harcèlement sexuel au sein de clubs demeurent inconnus. Ces affaires sont, au moins, ignorées  des médias et du public, au pire, étouffées par les associations sportives. Aujourd’hui, la parole des victimes se libère progressivement. Les conséquences, elles, perdurent. 
 
 				</div>
 			   </section>
 
+			   <section>
+				<h2><a href="feminisation.php">À Lannion, l’impasse du sport féminin</a></h2> 
+				<div class="chapo">
+						Les habitantes de Lannion peinent à trouver des clubs sportifs prêts à les accueillir. Seules les passionnées de foot peuvent compter sur une structure. Les autres doivent traverser le département. Les sportives regrettent que le développement du sport féminin ne soit pas à l’ordre du jour des politiques publiques.
+
+				</div>
+			   </section>
 			  
+			  <section>				  
+				<h2><a href="puberte.php">La puberté : un coup d’arrêt dans la pratique sportive des adolescentes</a></h2>
+				<div class="chapo">  
+					Changement des corps, socialisation genrée dans la pratique sportive et appropriation masculine des clubs : autant de raisons qui poussent les adolescentes à arrêter le sport durant la puberté. Ce décrochage, que l’on ne retrouve pas chez les jeunes garçons, se poursuit à l’âge adulte.  
+				</div>
+			   </section>
             </div>
             
         </div>
 	</div>
+	
+	<div class="clear"></div>
 	
 		<footer id="footer">
 			<div class="container">
