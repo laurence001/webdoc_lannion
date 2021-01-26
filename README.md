@@ -41,6 +41,7 @@ Sports de riche : la capture écran n'est pas légendée et est de très mauvais
 Ne pas oublier de passer les pages terminées sur gtmetrix et pingdom tools pour s'assurer que les temps de chargement sont correct (en principe, le pôle conception s'est chargé des tests mais ne pas hésiter à les refaire car tous les contenus sont là désormais).
 
 + sur https://www.websitecarbon.com
++ html et css validator (W3C)
 
 ## EDITORIAL
 
