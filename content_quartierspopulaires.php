@@ -10,7 +10,7 @@ En 2013, le ministère des Sports a mis en place une « convention triennale d�
 				
 <p> 
 Dans le quartier de Ker Uhel, situé entre le centre-ville et la technopole de Lannion, l’échec est bien visible. Les habitant·e·s de ce quartier « prioritaire » déplorent le manque d’équipements sportifs. “On est loin de tout !”, se plaint Françoise Squeren, membre du conseil citoyen et moteur de la vie du quartier. Les résident·e·s de Ker-Uhel jalousent l’autre QPV de Lannion. Ar Santé Les Fontaines bénéficie d’un city stade, d’un skate-park et d’une base sport nature située à proximité.</p> 
-<img src="../img/quartierspopulaires2.jpeg">
+<img src="../img/quartierspopulaires2.jpg">
 <div id="legende">Les deux “QPV” de Lannion. Celui de Ker Uhel à gauche, celui d’Ar Santé Les Fontaines à droite. 
 </div>
 <p> À Ker-Uhel, les derniers équipements sportifs construits sont des terrains de tennis. Françoise rit jaune. « Du tennis… Pourquoi pas un golf tant qu’on y est ? ». Cette ironie s’explique par le prix élevé des licences : 157 euros pour un·e enfant et 217 euros pour un·e adulte, sans compter le coût des équipements. Pour ce sport comme pour beaucoup d’autres, le montant de l’adhésion démotive la majorité des familles, souvent précaires. À Ker-Uhel, 41,8% des habitant·e·s vivaient sous le seuil de pauvreté en 2017, d’après le Système d'information géographique de la politique de la Ville (SIG Ville). En comparaison, le taux moyen en France est de 14,1%.
