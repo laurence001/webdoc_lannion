@@ -2,10 +2,12 @@
 
 Attention aux images : format jpg et pas jpeg ! 
 
+<code>
 Petites erreurs que vous commettez souvent :
 </p> et pas <p/>
 manque souvent attribut alt aux images : <img src="../img/monimage.jpg" alt="Texte alternatif de description de l'image" />
 italique : <em> et pas <I>
+  </code>
 
 #### Merci de charger les images dans le répertoire img
 
