@@ -1,6 +1,8 @@
 # Webdoc Lannion
 
 La V6 reprend l'ensemble des fichiers corrigés, y compris l'optimisation des images (aucune instruction n'a été suivie...).
+Pour toute correction, c'est dans ces fichiers que ça se passe : ce sont beaucoup d'heures de travail pour tout corriger, harmoniser, optimiser.
+Merci pour votre bonne collaboration !
 
 <code>
 Petites erreurs que vous commettez souvent :
@@ -21,6 +23,8 @@ Dernières vérifications ; https://cards-dev.twitter.com/validator
 Chaque page doit être vérifiée + clic sur le lien pour tester
 
 Attention : quid des images (métadonnées, servent au partage sur les RS) à refaire pour les articles et les pages des personnages, dans un souci d'harmonie avec la communication sur les réseaux sociaux ?
+
+L'idéal serait aussi de refaire les images des personnages avec un nommage en minuscules aylan.png, alix.png etc. Un peu plus grandes même, ça serait top car soucis de pixellisation sur les pages des persos.
 
 Par ailleurs, je n'ai pas trouvé l'emplacement de l'image Vélo3 (renommée : velo3.jpg). Pour rappel : pas de majuscules, pas de caractères accentués, pas d'espaces, un nom de fichier qui fait sens, une compression à 75%, 72DPI, RVB et largeur max de 1200 pixels (optimiser une image = optimiser une page pour le chargement)
 
