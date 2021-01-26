@@ -2,6 +2,11 @@
 
 Attention aux images : format jpg et pas jpeg ! 
 
+Petites erreurs que vous commettez souvent :
+</p> et pas <p/>
+manque souvent attribut alt aux images : <img src="../img/monimage.jpg" alt="Texte alternatif de description de l'image" />
+italique : <em> et pas <I>
+
 #### Merci de charger les images dans le répertoire img
 
 ### Prévenez-moi quand vous souhaitez le zip de la V6
