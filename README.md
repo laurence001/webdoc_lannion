@@ -48,3 +48,4 @@ favicons.php
 
 content_apropos.php
 
+analytics
