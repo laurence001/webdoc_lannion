@@ -4,10 +4,10 @@ Attention aux images : format jpg et pas jpeg !
 
 <code>
 Petites erreurs que vous commettez souvent :
-</p> et pas <p/>
-manque souvent attribut alt aux images : <img src="../img/monimage.jpg" alt="Texte alternatif de description de l'image" />
-italique : <em> et pas <I>
-  </code>
+< / p > et pas < p / >
+manque souvent attribut alt aux images : < img src = " ../img/monimage.jpg "  alt =" Texte alternatif de description de l'image " / >
+italique : < em > et pas < I >
+</code>
 
 #### Merci de charger les images dans le répertoire img
 
@@ -28,25 +28,13 @@ Ne pas oublier de vérifier : code HTML validé (W3C), partage des liens avec de
 
 Homepage version mobile, sous-les articles (parcours utilisateurs vers autres articles), sous les persos (pages index, quid bloc personnages ?), partage RS des utilisateurs (juste Twitter et FB ?)
 
-### CHARLIE
-
-Tous les fichiers ont été réalisés, check de Laurence pour les liens vers les images.
-
 ### ALIX / ELIO
 
-Tous les fichiers ont été réalisés, check de Laurence pour les liens vers les images.
-MAIS compléter le fichier index.php
-
-### AYLAN
-
-Manque content_riche + content_quartierspopulaires : pas d'images ou d'enrichissements ?
-
-Manque pour tous un bas de page (cf pôle conception)
+compléter le fichier index.php
 
 ### SASHA
 
-violences sexuelles, féminisation (3 x 2 fichiers)
-index.php (chapôs)
+féminisation (1 x 2 fichiers)
 
 ### ROOT
 
