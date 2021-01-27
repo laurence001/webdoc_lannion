@@ -20,7 +20,7 @@ Quels sont les liens de partage conservés pour les RS utilisateurs (juste Twitt
 
 Ne pas oublier de passer les pages terminées sur gtmetrix et pingdom tools pour s'assurer que les temps de chargement sont correct (en principe, le pôle conception s'est chargé des tests mais ne pas hésiter à les refaire car tous les contenus sont là désormais).
 
-Quid des parcours utilisateurs ? Il reste encore un goût d'inachevé dans tout ça ! (à noter : jamais reçu le cahier des charges, les résultats parcours utilisateurs etc. donc c'est aussi un peu compliqué de voir à quel point vous avez réfléchi cette conception).
+Quid des parcours utilisateurs ? Il reste encore un goût d'inachevé dans tout ça ! (à noter : jamais reçu le cahier des charges, les résultats parcours utilisateurs etc. donc c'est aussi un peu compliqué de voir à quel point vous avez réfléchi cette conception et à quelle point celle-ci est aboutie).
 
 Quelques liens (je vous les laisses si vous ne les avez pas consultées)
 
