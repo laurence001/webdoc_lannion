@@ -1,0 +1,59 @@
+<p> 
+	Plus d’un milliard de dollars : c’était le chiffre d'affaires attendu en 2020 pour l’e-sport. Mais la crise sanitaire a freiné la croissance économique de l’e-sport, revoyant à la baisse de 0,8% ces estimations. <em> «&nbsp;Nous, on a eu la chance de recevoir une aide financière de 10 000 euros en plein milieu de la crise. Mais, pour toutes les autres associations d’e-sport, ça n’a pas été facile&nbsp;», </em> indique Edern Plantier, directeur sportif de la Crazy Esport. Composée de 7 joueurs, l’équipe de Séné, dans le Morbihan, a récemment été subventionnée par la Région Bretagne.
+</p> 
+<p> 
+	Pour l’Esport Club de Brest (ECB) en revanche, la période n’est plus aux grandes compétitions, même en ligne. <em>«&nbsp;Sans l’argent des ‘cash price’(NDLR, somme d’argent remportée en tournoi), c’est à moi de tout financer de ma poche&nbsp;»,</em> confie Andy Hamon, président de l’ECB. C’est avec son salaire de déménageur qu’il paye les frais d’inscription pour accéder aux compétitions majeures. Dans son club, 50% des recettes issues des compétitions reviennent aux joueur·euse·s. L’autre moitié est récupérée par le club pour son fonctionnement et notamment l'inscription en tournoi. Moins de cash prices pour les clubs, c’est donc moins de compétitions à disputer pour les joueur·euse·s.
+</p>
+
+<h3 class="inter">Chute des revenus de sponsoring</h3>
+
+<p> 
+	Ces difficultés financières s’expliquent notamment par l’annulation ou le report de nombreuses compétitions en présentiel. Bien que certains tournois aient pu avoir lieu dans une version totalement virtuelle, de nombreux évènements de taille ont dû être reportés, voire annulés, à cause de la situation sanitaire. Or, depuis une dizaine d'années, l’e-sport  mise gros sur des compétitions d’envergure mondiale. Des «&nbsp;events&nbsp;» (événements) rassemblant les meilleures équipes du monde dans des arénas, devant des milliers de spectateur·rice·s.
+</p> 
+<p> 
+	Leur annulation a été un énorme manque à gagner pour tout un pan de ce secteur, à commencer par les clubs et les structures «&nbsp;e-sportives&nbsp;» dont le modèle économique est encore fragile. Le casteur (NDLR, commentateur e-sport) Adyboo en rigole mais
+	<blockquote> <em>«&nbsp;l’e-sport, c’est vraiment le genre de secteur dans lequel t’investis 1 euro et si tu gagnes 20 centimes, c’est extraordinaire&nbsp;»,</em>en rigole le casteur (NDLR, commentateur e-sport) Adyboo. </blockquote>
+</p>
+<p> 
+	Le système fonctionne à 80% via les revenus de sponsoring. Ce gagne-pain a fondu durant la crise sanitaire. Pour les clubs majeurs, l’inquiétude est moindre puisque leurs sponsors sont des entreprises prospères, majoritairement des grandes marques du numérique et de l’informatique. En revanche, les équipes locales sont soutenues par des petites entreprises impactées par la crise économique. Dès lors, leurs investissements dans l’e-sport ont diminué. <em> «&nbsp;Au début, on continuait à percevoir nos revenus de sponsoring habituels, </em> lance Edern Plantier. <em> C’est même nous qui avons choisi de les diminuer afin de soutenir notre partenaire historique au cours de cette période&nbsp;»</em>, poursuit-il.
+</p>
+<p> 
+	Pour les petites structures d’e-sport, l’annulation de compétitions coûte cher en termes de perte de visibilité. Touchant un large public, elles permettent à des équipes méconnues qui performent d’être mises en avant. Sans la lumière des projecteurs, ces clubs ont du mal à rayonner uniquement via la diffusion en streaming. <em> «&nbsp;Quand j’envoie mes joueurs Fifa en compétition et qu’ils font de bonnes performances, ou des bons résultats, c’est directement l’ECB qu’on fait connaître. C’est super important pour nous en tant que club de valoriser notre travail&nbsp;»</em>, affirme Andy Hamon.
+</p>
+<p> 
+	De son côté, l’équipe Redbloods <em>«&nbsp;a perdu environ 25% de ses bénéfices liés au merchandising (NDLR, vente de produits dérivés de jeux vidéos, joueur·euse·s et club e-sport)&nbsp;»</em>, explique son manager.
+</p>
+	<div class="genial">
+		<div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;">
+			<iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5fff6ab89680a90d0132c5b0" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> 
+		</div>
+	</div>
+<h3 class="inter">Baisse de moral chez les joueur·euse·s</h3>
+<p> 
+	Contrairement à ce que l’on pourrait croire, le retour au 100% en ligne des compétitions d’e-sport est loin de ravir les professionnels du secteur. Au contraire, cela peut fortement jouer sur le moral des troupes. <em> «&nbsp;L’annulation des compétitions physiques, c’est dur pour les joueurs&nbsp;»</em>, témoigne Edern Plantier de la Crazy Esport.
+</p> 
+<p> 
+	Le report des compétitions au 100% «&nbsp;online&nbsp;» joue sur le moral des joueur·euse·s.
+	
+	<blockquote> <em> «&nbsp;Il peut y avoir des problèmes de connexion, c’est rageant quand tu as le niveau et que tu perds à cause d’un décalage internet&nbsp;»</em>, décrit-il. </blockquote>
+	Cette alternative aux événements «&nbsp;physiques&nbsp;» pourrait ne pas être favorable à la performance. L’équipe de Natus Vincere en a fait les frais. Numéro un mondial en mars sur le jeu Counter Strike, les joueur·euse·s ont eu un passage à vide qui a duré près de quatre mois. Des contre-performances liées au confinement les feront tomber à la dixième place. Même chose du côté des casteurs et analystes e-sport comme le confirme Adyboo : <em> «&nbsp;Nous, mais comme toutes les personnes qui s’investissent dans l’e-sport, on vit pour la scène&nbsp;».</em>
+</p>
+<h3 class="inter">Au coeur d’une révolution culturelle et politique</h3>
+<p> 
+	La crise sanitaire est donc venue enrayer le développement du secteur «&nbsp;e-sportif&nbsp;» en croissance depuis vingt ans. Une émergence qui passe aussi par une phase d'institutionnalisation de la pratique. Le jeu vidéo est en pleine évolution culturelle et conquiert toujours plus d’adeptes.
+</p>
+
+<p> 
+	Bien que l’Europe se soit montrée méfiante vis-à-vis de l’e-sport, l’un des emblèmes de la culture asiatique, il a gagné du terrain d’année en année. Si en France, les joueur·euse·s d’e-sport sont encore souvent stigmatisé·e·s, ce n’est pas le cas en Corée, par exemple, où le jeu vidéo est une véritable institution. En 2017, le pays comptait plus de 17 millions de joueur·euse·s pour 50 millions d’habitant·e·s. Les joueur·euse·s sont formé·e·s très tôt à l’e-sport, une recette qui permet aux joueur·euse·s coréen·enne·s de largement dominer l’ensemble de la scène e-sport, tous jeux confondus. Là-bas, les familles banalisent les jeux vidéo depuis les années 2000.
+</p> 
+
+<p> Toutefois, aujourd’hui, l’e-sport et le jeu vidéo attirent 7,8 millions de consommateur·rice·s ou pratiquant·e·s. Ses évènements rassemblent des milliers de supporter·rice·s dans ce que l'on appelle des «&nbsp;arènes e-sport&nbsp;». Des millions de spectateur·rice·s sont aussi connecté·e·s en ligne simultanément. Pour Servane Fischer, conseillère e-sport chez Ubisoft, c’est <em> «&nbsp;un changement de culture car l’e-sport est un lieu où l’on peut trouver un travail&nbsp;».</em></p>
+<p> 
+	Aussi, les seniors sont de plus en plus nombreux à s'intéresser aux jeux vidéo. Les 60 ans et plus étaient 17% à jouer en 2018 contre 34% en 2020, selon le ministère de la Culture. De plus, l’e-sport devient peu à peu un enjeu de marketing territorial pour les municipalités et les régions. À l’image de la Bretagne, première région à s’être affiliée à une équipe e-sport en France.
+</p>
+
+<p> 
+	Localement, <em> «&nbsp;l’e-sport ne cesse de gagner en visibilité. De nouveaux marchés s’ouvrent, ce qui suscite l’intérêt des politiques&nbsp;» </em>, d’après Andy Hamon. Lui a créé son propre club à Brest en suivant le modèle de l’Esport Club de Rouen, en mars 2019. Ce club normand bénéficie du soutien de la ville qu’il représente. <em> «&nbsp;Quand j’étais encore joueur pro, on rencontrait souvent leur équipe en compétition. J’ai pu en discuter avec son créateur, ce qui m’a donné envie de faire pareil&nbsp;» </em>, précise le président de l’ECB. Pour les clubs, ces partenariats leurs permettent de gagner en visibilité et d’attirer un public qui s’y identifie. À Brest, l’Esport Club n’est pas encore subventionné. Mais des discussions avec les élu·e·s brestoi·se·s sont en cours.
+</p>
+
+<p> Si la date du retour à la normale pour l’e-sport est encore approximative, pour Adyboo cela ne fait aucun doute, <em> «&nbsp;Une fois qu’on en aura terminé avec le Covid, l’e-sport va repartir instantanément et il va retrouver sa dynamique de développement d’avant &nbsp;»</em>.</p>
