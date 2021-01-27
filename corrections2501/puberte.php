@@ -1,0 +1,81 @@
+<!doctype html>
+<html class="no-js" lang="fr">
+
+<head>
+  <meta charset="utf-8">
+  <title>Les visages du sport - La puberté : un coup d’arrêt dans la pratique sportive des adolescentes</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <?php require_once('metadata_puberte.php'); ?>
+  <?php require_once('../favicons.php'); ?>
+  <script src="https://code.jquery.com/jquery-3.5.1.min.js" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
+  <script>window.jQuery || document.write('<script src="js/vendor/jquery-3.2.1.min.js"><\/script>')</script> 
+  <script src="https://kit.fontawesome.com/5d803a5a54.js" crossorigin="anonymous"></script>
+  <link rel="preconnect" href="https://fonts.gstatic.com">
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700;800;900&family=Pacifico&display=swap" rel="stylesheet"> 
+  <link rel="stylesheet" href="../css/normalize.css">
+  <link rel="stylesheet" href="../css/bootstrap.min.css">
+  <link rel="stylesheet" href="../css/main.css">
+  <link rel="stylesheet" href="../css/new.css">
+</head>
+
+<body id="art" class="sasha-cat inside article">
+ 
+	<?php 
+		require_once('../reseaux.php');
+		require_once('navbar.php'); 
+		$titre = "La puberté : un coup d’arrêt dans la pratique sportive des adolescentes";
+		$url = "https://" . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI'];
+	?>
+	
+	<div id="progression">
+		<div id="barre"></div>
+	</div>
+  
+    <div class="container main-container">
+		<div class="col-12">
+		
+		
+		<h1 id="main-title">La puberté : un coup d’arrêt dans la pratique sportive des adolescentes</h1>
+        
+		<div id="details">
+			<p>Klervie Vappreau et Victorine Vauquelin </p>
+			<p>Photo de Maël Baudé </p>
+		</div>
+		
+		<?php include('../share.php'); ?>
+		<div id="topimage">
+			<img src="../img/puberte.jpg" alt="Adolescente jouant au tennis" />
+			<div id="legende">
+				De nombreuses jeunes filles qui font du sport en club décrochent dès 12 ans.
+			</div>
+		</div>
+		
+			<div id="chapo" class="lead">
+				Changement des corps, socialisation genrée dans la pratique sportive et appropriation masculine des clubs : autant de raisons qui poussent les adolescentes à arrêter le sport durant la puberté. Ce décrochage, que l’on ne retrouve pas chez les jeunes garçons, se poursuit à l’âge adulte.
+			</div>
+		
+			<article>
+                
+				<?php require_once('content_puberte.php'); ?>
+				
+			</article>
+			
+			<?php include('../share.php'); ?>
+			
+		</div>
+		
+	</div>
+	
+	<div class="clear"></div>
+	
+		<footer id="footer">
+			<div class="container">
+				J2 - InfoCom Lannion &copy; 2021
+			</div>
+		</footer>
+	
+		<script src="../js/vendor/modernizr-3.11.2.min.js"></script>
+		<script src="../js/bootstrap.min.js"></script>
+		<script src="../js/main.js"></script>
+    </body> 
+</html>
