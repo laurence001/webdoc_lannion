@@ -2,9 +2,7 @@
 
 Vous voilà presqu'au bout !
 
-Il manque encore : l'image pour la favicon (460px x 460px) et le texte de présentation d'Aylan.
-
-Qui souhaite accéder aux statistiques de visites ? Me fournir une adresse gmail svp, merci !
+Il manque encore : l'image pour la favicon (460px x 460px)
 
 Côté style : il manque le style des blockquotes
 
