@@ -1,0 +1,58 @@
+<p> 
+	Sur le marché du cycle, le vélo électrique représente aujourd’hui 45,2% du chiffre d'affaires (NDLR, s'élevant à 2,3 milliards d’euros), soit 10% de plus qu’en 2018. Pourtant, certains doutes persistent quant à son accessibilité . Le vélo électrique est-il un mode de déplacement de riches urbains ? Matthieu Orphelin, député du Maine-et-Loire, répondait mardi 13 décembre sur France Inter : <em>«&nbsp;Oui, parce que le gouvernement n’a pas arbitré et ne met pas les moyens en œuvre.&nbsp;»</em> Mais si Mathieu Orphelin l'a dit comme cela, ne changez rien. En moyenne, un vélo électrique neuf coûte 1 749 euros, selon les données publiées en 2020 par l’Union Sport & Cycle. Un investissement lourd, que tous et toutes ne peuvent  se permettre, en particulier les plus jeunes et les plus précaires, il faut  savoir que l’État a mis en place des aides à l’achat depuis plusieurs années.
+</p> 
+<p>
+	En 2017 déjà, Ségolène Royal, alors ministre de l’environnement, annonçait la création du “bonus vélo électrique”, qui consistait en une aide de 20% du prix de l’objet. Cette aide était plafonnée à  200 euros. L’année suivante, Gérard Darmanin, alors ministre de l’action et des comptes publics, avait annoncé la suppression de cette <a href="https://www.lesechos.fr/2017/09/budget-2018-la-prime-pour-lachat-dun-velo-electrique-supprimee-debut-fevrier-181669"> prime</a> dans le cadre du projet de loi de finances (PLF). <em>«&nbsp;Nous avons considéré que ce n'était pas à l'Etat de continuer à subventionner le vélo électrique, dans la mesure où, quand il l'avait fait, les collectivités locales ne le faisaient pas. Maintenant, beaucoup de collectivités locales le font&nbsp;»</em>, avait-il déclaré sur <a href="https://www.rtl.fr/actu/economie-consommation/la-prime-pour-l-achat-d-un-velo-electrique-c-est-bientot-fini-7790260498"> RTL </a>
+</p>
+<p>
+	C’est sur la base de ces mesures locales qu'en 2019, la prime à l’achat du vélo électrique sera réhabilitée, devenant un complément aux aides allouées par les collectivités.
+</p>
+
+	<div class="genial">
+		<div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;">
+			<iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5fff208496b9ac0cfe67d764" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> 
+		</div>
+	</div>
+	
+<h3 class="inter">Le vélo électrique se démocratise dans la vie quotidienne</h3>
+				
+<p> 
+	Dans le dernier rapport du Shift Project paru en février 2020, l’ingénieur Jean-Marc Jancovici et l’auteur Matthieu Auzanneau, tous deux spécialistes des questions énergétiques, économiques et climatiques, ont exposé un plan pour <em>«&nbsp;décarboner la mobilité quotidienne&nbsp;»</em>. La pollution générée par les déplacements quotidiens est en effet prépondérante dans le bilan carbone des Français.es. Le collectif de réflexion sur la transition énergétique, Shift Project, mise sur les politiques incitatives des institutions locales et nationales pour faire changer les usages .
+</p>
+
+<p>
+	Colyne, étudiante à Lannion en Bretagne, a souscrit à un programme municipal de location de vélo, le Vélék’tro. 
+</p>
+<p>	
+<blockquote cite="http://www.worldwildlife.org/who/index.html">
+<em><em>«&nbsp;Avant le départ de Nicolas Hulot du gouvernement, je prenais la voiture. Depuis, je fais attention à mon empreinte carbone. Heureusement, cette année, mes parents étaient prêts à financer ce coût. Toute seule, je ne l’aurai pas fait&nbsp;».</em>
+</blockquote>
+</p>	
+
+<p>	
+Si ces formules d’aide profitent à un public varié, ce sont toutefois les étudiant·e·s et lycéen·ne·s qui en sont les principaux bénéficiaires. C’est ce qu’indique Laure Alleaume, responsable du projet Velek’tro : <em>«&nbsp;par choix écologique ou par manque de moyens pour la voiture, ils vont privilégier le vélo&nbsp;»</em>.
+</p>
+
+<p>
+	Des offres similaires se multiplient aux quatre coins de la France. <em>«&nbsp;Je pense que nous aurions acheté le vélo, même si les primes à l’achat n’existaient pas. Ce qui m’a incité, c’est la possibilité de location mise en place par l’agglomération de Laval. Sans le test sur un an, je ne me serais pas engagée dans l’achat d’un vélo électrique&nbsp;»</em>, explique Sophie, enseignante en Mayenne. Ces nouveaux services de location permettent aux publics, qui n’ ont pas les finances nécessaires, de bénéficier d’un moyen de transport à bas prix, tout en présentant  l’avantage de pouvoir être envisagé comme un test avant l’achat.
+</p>
+
+<h3 class="inter">Une pratique sportive encouragée par le confinement</h3>
+
+<p>
+	Les périodes de confinement ont également joué un rôle dans l’afflux de nouveaux·elles pratiquant·e·s. Délizia est secrétaire médicale. Elle s'est décidée à franchir le pas, même si <em>«&nbsp;ce n’est pas franchement pour l’écologie. C’est surtout que ça me permet de prendre l’air le soir, après avoir été enfermée toute la journée.&nbsp;» </em> Même son de cloche du côté de Sophie, professeure de mathématiques au collège. 
+</p>
+
+<p>	
+<blockquote cite="http://www.worldwildlife.org/who/index.html">
+<em><em><em> «&nbsp;Même si, en soi, la pratique n’est pas sportive, cela fait du bien de pouvoir sortir&nbsp;»</em>. 
+</blockquote>
+</p>	
+	
+<p>
+	Dans le rapport du Shift Project, Nicolas Raillard, le chef de projet, évoque en effet les bienfaits de la pratique du vélo sur la santé qui <em>«&nbsp;réduit significativement la sédentarité, par un usage accru des véhicules à propulsion musculaire, assistée électriquement ou non. L’usage de tels véhicules est associé à une baisse de la mortalité pour raisons de santé et à une baisse de l’accidentologie, par rapport à l’usage de la voiture.&nbsp;»</em>
+</p>
+
+<p>
+	Cette franche augmentation du marché du vélo électrique s’explique donc par une diversité de facteurs : des mesures mises en place par l’État ou les collectivités locales. La période de confinement a encouragé certaines pratiques sportives et relance aujourd’hui les vélos, notamment électriques, au milieu du trafic. 
+</p>
