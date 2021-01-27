@@ -1,0 +1,69 @@
+<p> 
+	<em>«&nbsp;Je n’ai jamais arrêté le sport. Dès le lendemain de ma première chimio, j’ai couru 30 minutes sur mon tapis de course&nbsp;»</em>, confie Valérie Fitaly. En 2017, cette mère de famille de 46 ans découvre qu’elle est atteinte d’un cancer du sein. Déjà active et sportive avant cette douloureuse annonce, elle ne perd pas ses bonnes habitudes pendant son traitement. Alors, entre ses 15 séances de chimiothérapie, 33 sessions de rayons et 18 mois d’injections à l'hôpital Pontchaillou de Rennes, elle alterne quotidiennement marche et course à pied. <em>«&nbsp;Quand tu cours, tu ne penses pas au fait que tu sois malade ou que tu aies mal quelque part. Dès que je sentais que ça n’allait pas, je partais courir pour me vider la tête.&nbsp;»</em>
+</p>
+
+<p>
+	Valérie Fitaly en est certaine :  au-delà de ses bienfaits psychologiques, le sport contribue à se remettre plus facilement des longs et lourds traitements. <em>«&nbsp;J’ai eu peu d’effets secondaires après ma chimio, et le sport y a contribué&nbsp;»</em>, poursuit-elle. Aujourd’hui guérie, Valérie Fitaly se rend à ses cours de yoga et de body balance plusieurs fois par semaine, pour éviter toute récidive. Claude Gault, 75 ans, a quant à lui un cancer de la prostate depuis 2001. Toujours pas soigné, il arrive à maîtriser sa maladie grâce à ses médicaments, mais aussi par sa pratique régulière de la marche. <em>«&nbsp;Je fais 10 à 12 kilomètres par jour, autour de chez moi à Montours. Je considère la marche comme une thérapie&nbsp;»</em>, indique l’ancien postier. À la différence de Valérie Fitaly, c'est son médecin traitant qui l’a encouragé à pratiquer la marche à pied. <em>«&nbsp;Il m’a dit que le sport contribue à 50% de ma guérison&nbsp;»</em>.
+</p> 
+
+<p>
+	Cependant, la plupart des patient·e·s craignent  de pratiquer une activité physique pendant leur maladie. <em>«&nbsp;À l’annonce de leur cancer, un certain nombre de personnes mettra tout en œuvre pour améliorer ses comportements, mais ce n’est pas la majorité&nbsp;»</em>, indique Raphaëlle Ancellin, cheffe de projets du département Prévention à l’INCa (Institut National du Cancer).
+</p> 
+	
+	<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/970010815&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/maria-aze" title="MariaAZE" target="_blank" style="color: #cccccc; text-decoration: none;">MariaAZE</a> · <a href="https://soundcloud.com/maria-aze/sonore-sport-et-cancer" title="Sonore Sport Et Cancer" target="_blank" style="color: #cccccc; text-decoration: none;">Sonore Sport Et Cancer</a></div>
+
+<h3 class="inter"> «&nbsp;Beaucoup de patients ont peur de faire des faux pas&nbsp;» </h3>
+				
+<p> 
+	Ayant participé à la rédaction du rapport de l’INCa sur les <em>«&nbsp;Bénéfices de l'activité physique pendant et après cancer&nbsp;»</em>, Raphaëlle Ancellin s’est longuement intéressée aux réticences des patient·e·s à pratiquer du sport pendant leur maladie. Le premier frein est souvent d’ordre psychologique. Certain·e·s malades craignent que le sport n’améliore pas leur diagnostic, mais qu’au contraire, il entraîne des complications. <em>«&nbsp;Beaucoup de patients ont peur de faire des faux pas et se disent : “plutôt que de prendre des risques, je préfère ne rien faire, ce sera plus sûr”&nbsp;»</em>. Mais selon, Raphaëlle Ancellin, il existe une vraie  méconnaissance au sujet des bienfaits du sport pendant la maladie. 
+	
+	<blockquote><em>«&nbsp;Des patients fatigués vont penser que l’activité physique va les fatiguer encore plus, alors qu’au contraire le sport est l’un des remèdes pour diminuer cette fatigue. Ce sont des a priori&nbsp;»</em>, explique-t-elle. </blockquote>
+	
+	Évidemment, certain·e·s patient·e·s sont dans l’incapacité de pratiquer quelconque activité pendant leur maladie, <em>«&nbsp;parce qu'ils ne peuvent pas bouger des suites de leur chirurgie, ou à cause des douleurs&nbsp;»</em>. Ce rapport de l’INCa, publié en 2017, montre aussi des obstacles d'ordre financier. Certaines activités demandent une pratique encadrée ou des équipements adéquats, qui peuvent s’avérer onéreux. À cela s'ajoutent des patient·e·s qui peuvent rencontrer des problèmes d’accessibilité pour pouvoir pratiquer du sport de façon régulière et durable. <em>«&nbsp;Des centres de lutte contre le cancer existent et ont le personnel et les infrastructures pour accompagner les patients, mais certains d’entre eux se retrouvent loin de ces structures&nbsp;»</em>, poursuit Raphaëlle Ancellin. En plus des freins psychologiques, financiers et d’accessibilité, il faut rajouter des contraintes de temps. Comme le grand public, un des freins majeurs à la pratique sportive chez les patient·e·s est l’organisation qu’elle requiert. 
+</p> 
+
+<h3 class="inter">  Près d’un tiers des cancers du côlon pourraient être évités par la pratique sportive </h3>
+
+	<div style="width: 100%;">
+		<div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;">
+			<iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5ffdbed1e5647b0d4048d00b" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe>
+		</div>
+	</div>
+<p>
+	Chaque année, l’inactivité physique est responsable de cinq millions de décès dans le monde, soit la première cause de décès évitable, selon l’INCa. En ce qui concerne le cancer, le sport agit à trois niveaux. Tout d’abord, en prévention primaire pour éviter l’apparition de la maladie. 2h30 de sport par semaine réduiraient de 8% le risque de développer un cancer du côlon et cinq heures de sport de 15%, selon l’ANSES (Agence nationale de sécurité sanitaire de l’alimentation, de l’environnement et du travail). Même constat pour le cancer du foie. Les risques d’apparition de la maladie s'amenuiseraient de 18% avec 2h30 d'activité physique par semaine et de 27% avec cinq heures.
+</p>
+
+<p>
+	Chez les patient·e·s malades, pratiquer une activité physique régulière est également primordial, surtout pendant leurs traitements aigus (chimiothérapie, rayons…) <em>«&nbsp;À la suite d'un traitement, on peut prendre de la masse grasse et perdre de la masse musculaire, ce qui n’est pas bon. À travers l’activité physique, on limite cette prise de masse grasse&nbsp;»</em>, développe Philippe Marijnen, médecin du sport  au centre de lutte contre le cancer Léon Bérard, à Lyon. Le sport réduit aussi la fatigue, effet secondaire le plus fréquent chez les patient·e·s. Selon l’étude de l’INCa, l’effort physique diminue en moyenne de 25% le niveau de fatigue, et jusqu’à 35% dans le cas du cancer du sein. <em>«&nbsp;On diminue la fatigue par l’activité physique. Souvent, les patients sont fatigués de ne rien faire&nbsp;»</em>, explique Philippe Marijnen, avant de poursuivre : <em>«&nbsp;Pratiquer du sport permet aussi d’améliorer les conditions de vie, le bien-être, le sommeil. On diminue l’anxiété et les risques de dépression&nbsp;»</em>.
+</p>
+
+<p>
+	Enfin, le sport agit pendant la période post-cancer. Intégré au processus de guérison, il permet de diminuer les récidives, notamment pour les cancers du sein et du côlon. <em>«&nbsp;Notre rôle est très important à ce moment-là. Quand il sort des traitements aigus, le patient doit rester dans une dynamique de mouvement&nbsp;»</em>, souligne Rodolphe Mongondry, éducateur sportif au centre Léon Bérard.
+</p>
+
+<h3 class="inter">20 à 30% des médecins ne recommandent pas le sport aux malades</h3>
+
+<p>
+	<em>«&nbsp;Au centre, même les patient·e·s handicapé·e·s par une perfusion ou des systèmes de branchage pratiquent la marche, le vélo et parfois le rameur&nbsp;»</em>, raconte Rodolphe Mongondry. Les éducateurs·trices sportif·ve·s proposent des activités aux patient·e·s en fonction de leur condition physique, en tenant compte de leurs besoins et de leurs envies. 
+	<blockquote> <em>«&nbsp;Tous les sports sont faisables, à partir du moment où ils s’adaptent à l’état de santé du patient&nbsp;»</em>, précise Thomas Ginsbourger, chercheur en cancérologie sur les rapports entre sport et cancer. </blockquote>
+	Seule contre-indication : ne pas accentuer la fatigue des malades. <em>«&nbsp;Il ne faudrait pas rajouter un épuisement lié au surcroît d’effort&nbsp;»</em>, explique Philippe Marijnen. <em>«&nbsp;Le médecin doit doser le niveau d’effort pour que le patient soit dans une zone de confort et de bénéfice&nbsp;»</em>. Pour commencer à constater les bénéfices sur l’organisme, il faut respecter une fréquence de 150 minutes d’activité par semaine (soit 30 minutes d’effort cinq jours sur sept). <em>«&nbsp;On prône la régularité et l’intensité. Plus elles sont élevées, plus les bienfaits se verront&nbsp;»</em>, ajoute Rodolphe Mongondry.
+</p>
+
+<p>
+	Un décret publié le 30 décembre 2016, autorise les médecins à prescrire du sport comme thérapie non-médicamenteuse à leurs patient·e·s atteint·e·s de cancers. Malgré ça, la pratique sportive reste très peu prescrit. Proches de leurs patients, le rôle des médecins généralistes est crucial. Une étude suédoise montre même que la pratique des patient·e·s est plus assidue lorsqu’il y a une prescription médicale écrite. <em>«&nbsp;Les médecins sont les premières personnes à convaincre. Au centre, on essaie de leur faciliter le travail avec des ordonnances pré-remplies et de la documentation&nbsp;»</em>, déclare Philippe Marijnen. <em>«&nbsp;Aujourd’hui, tous les médecins devraient prescrire du sport&nbsp;»</em>. Pourtant, ils sont encore 20 à 30% à ne pas le faire aujourd’hui, selon Thomas Ginsbourger. 
+</p>
+
+<h3 class="inter">Le sport à l’épreuve du confinement</h3>
+
+<p>
+	Outre les réticences du corps médical, la crise sanitaire actuelle ne joue pas en faveur des sportif·ve·s. Avec la fermeture des salles de sport et la limitation à une heure de sortie dans un rayon d’un kilomètre au début de la pandémie, l’activité physique était largement limitée. Claude Gault, habitué à randonner plusieurs heures chaque jour, a dû s’adapter durant le confinement et utiliser son heure quotidienne autorisée pour marcher. <em>«&nbsp;J’ai diminué ma distance mais tant que je marche, ça me fait du bien. Je randonne à une vitesse moyenne de 4km/h donc je marchais 4km par jour.&nbsp;»</em> Si ces sorties restaient indispensables pour son moral, le septuagénaire a évité de croiser trop de personnes, par peur de contracter le virus. <em>«&nbsp;Même si je suis dynamique, je suis considéré comme une personne à risque. Mon médecin m’a recommandé de faire très attention car mon organisme ne supporterait peut-être pas la Covid.&nbsp;»</em>
+</p> 
+<p>
+	Si la majorité de la population française doit se limiter aux déplacements d’une heure dans un rayon d’un kilomètre par jour, imposés par le Gouvernement, certaines personnes, munies d’une prescription médicale ne sont pas soumises aux mêmes règles. Lors d’une allocution le 28 octobre, Roxana Maracineanu, ministre des Sports, le soulignait. <em>«&nbsp;La pratique sportive est essentielle pour le bien-être physique et moral des adultes comme des enfants. C’est la raison pour laquelle elle pourra continuer à être exercée dans certaines conditions.&nbsp;»</em> 
+</p>
+
+<h3 class="inter">Un pic de cancers en 2021 ?</h3>
+
+<p>
+	L’activité physique régulière est primordiale dans la prévention de certaines maladies cardiaques ou de cancers. Le chercheur en cancérologie, Thomas Ginsbourger, s’inquiète des comportements sédentaires dus au confinement. <em>«&nbsp;Rester chez soi favorise les temps passés devant l’ordinateur et la télévision assis dans son canapé. Ces comportements vont à l’encontre de la santé physique.&nbsp;»</em> De son côté, l’OMS (Organisation Mondiale de la Santé) met en garde les populations sur une possible <em>«&nbsp;pandémie de mauvaise santé&nbsp;»</em>, si l’activité physique est mise de côté. Faut-il craindre un pic de cancers et d’autres maladies liées à la sédentarité ? Thomas Ginsbourger est formel. <em>«&nbsp;Globalement, la réduction de l’activité physique peut entraîner un peu plus de cancers. Mais il faut voir plus large. Il y a eu aussi moins de dépistages et des traitements ont été repoussés.&nbsp;»</em> Selon lui, on peut donc s'attendre à une hausse des cancers en 2021. 
+</p>
