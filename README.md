@@ -16,6 +16,4 @@ Dès que j'aurai terminé les intégrations, il faudra encore tout repasser sur 
 
 Quels sont les liens de partage conservés pour les RS utilisateurs (juste Twitter et FB ?) Me confirmer svp.
 
-Ne pas oublier de passer les pages terminées sur gtmetrix et pingdom tools pour s'assurer que les temps de chargement sont correct (en principe, le pôle conception s'est chargé des tests mais ne pas hésiter à les refaire car tous les contenus sont là désormais).
-
-Quid des parcours utilisateurs ? 
+Quid des parcours utilisateurs ? Je peux ajouter ce que vous souhaitez si vous n'avez plus le temps !
