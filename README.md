@@ -12,6 +12,4 @@ Les pages ont-elles été soumises aux : validateur CSS, validateur HTML, https:
 
 Dès que j'aurai terminé les intégrations, il faudra encore tout repasser sur responsinator.com, merci aussi !
 
-Quels sont les liens de partage conservés pour les RS utilisateurs (juste Twitter et FB ?) Me confirmer svp.
-
 Quid des parcours utilisateurs ? Je peux ajouter ce que vous souhaitez si vous n'avez plus le temps !
