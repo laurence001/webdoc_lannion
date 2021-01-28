@@ -1,7 +1,7 @@
 # Webdoc Lannion
 
-Ca se termine tout tout doucement !
+Le site est finalisé, ne manquent que vos dernières corrections (soyez gentils avec la CSS si vous y touchez :-)
 
-Pages ok : homepage, 404, à propos, tout Sasha + tout Charlie + tout Alix + tout Elio
+Il manque juste les images métadonnées
 
-Attention : voir les images du répertoire metadata zippé - ce sont les images pour le partage des RS, les avez-vous refait ? Sinon, aucune image du répertoire n'est lisible et il faut quand même tout refaire !
+Et vous y serez !
