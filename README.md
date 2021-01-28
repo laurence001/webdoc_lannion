@@ -1,14 +1,12 @@
 # Webdoc Lannion
 
-Vous voilà presqu'au bout !
+Ca se termine tout tout doucement !
 
-Il manque encore : l'image pour la favicon (460px x 460px)
+Attention : voir les images du répertoire metadata zippé - ce sont les images pour le partage des RS, les avez-vous refait ? Sinon, aucune image du répertoire n'est lisible et il faut quand même tout refaire !
 
 Côté style : il manque le style des blockquotes
 
 La check-list pour le développement (PDF ci-dessus) a-t-elle bien été passée en revue ?
-
-Les pages ont-elles été soumises aux : validateur CSS, validateur HTML, https://cards-dev.twitter.com/validator + GtMetrix + Pingdom Tools + https://www.websitecarbon.com => faites-moi remonter les soucis à régler, merci !
 
 Dès que j'aurai terminé les intégrations, il faudra encore tout repasser sur responsinator.com, merci aussi !
 
